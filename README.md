@@ -1,3 +1,9 @@
+> ⚠️ **Project in Progress**
+>
+> This repository is a work in progress as part of my preparation for the [ISC2 Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC) certification.
+> 
+> I am documenting each section of the course with personal notes, summaries, resources, and practical examples. This helps reinforce my learning while building a public knowledge base.
+
 # ISC2 Certified in Cybersecurity (CC) – Study Project
 
 🚀 A practical project designed to reinforce knowledge from the **ISC2 Certified in Cybersecurity (CC)** certification.  
